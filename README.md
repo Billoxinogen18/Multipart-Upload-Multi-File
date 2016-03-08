@@ -7,7 +7,7 @@ To run the app-
 1. Clone the repo
 <br>
 > git clone https://github.com/shobhitchittora/Multipart-Upload-Multi-File
+<br>
 
 2. Go to Android Studio and Import the project.
-<br>
 3. Connect a device and run the app.
