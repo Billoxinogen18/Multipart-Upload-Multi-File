@@ -5,8 +5,8 @@ Android sample app for uploading multiple file simultaneously and that too in mu
 To run the app-
 <br>
 1. Clone the repo
-...
-git clone https://github.com/shobhitchittora/Multipart-Upload-Multi-File
-...
+<br>
+>git clone https://github.com/shobhitchittora/Multipart-Upload-Multi-File
 <br>
 2. Go to Android Studio and Import the project.
+3. Connect a device and run the app.
