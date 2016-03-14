@@ -9,6 +9,5 @@ To run the app-
 3. Connect a device and run the app.<br>
 
 #Video
-<iframe id="ytplayer" type="text/html" width="640" height="390"
-  src="http://www.youtube.com/embed/BF1RG8qpyoU"
-  frameborder="0"/>
+
+  [![Video Sample](http://img.youtube.com/vi/BF1RG8qpyoU/0.jpg)](http://www.youtube.com/watch?v=BF1RG8qpyoU)
